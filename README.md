@@ -56,4 +56,4 @@ pnpm build
 
 ## 维护者
 
-[xiaoxian521](https://github.com/jiayanlei)、[Ten-K](https://github.com/Ten-K)
+[jiayanlei](https://github.com/jiayanlei)
