@@ -59,6 +59,7 @@ export default defineConfig(( command, mode, ssrBuild ) => {
       }
     },
     },
+    // eslint-disable-next-line no-sparse-arrays
     plugins: [
       vue(),
       // 支持tsx,jsx语法
